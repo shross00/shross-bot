@@ -1,5 +1,4 @@
 discord
-asyncio
 pymoe
-youtube_dl
+youtube
 pip
