@@ -58,5 +58,3 @@ async def on_message(message):
     if message.content == 'join':
         await client.send_message(message.channel,'hey! welcome to shross')
 client.run('NTQ0MDk0NDEzMTA2NzA4NDgx.D0GyYg.dw_2hZD6frunsPW1hTi4GRb3rG0')
-
-NTQ0MDk0NDEzMTA2NzA4NDgx.D0W8fg.sgin--e9xM_qSMwvNrNO0-FTAYk
